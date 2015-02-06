@@ -1,0 +1,8 @@
+{
+  "sources": [
+    "src",
+    "test"
+  ],
+  "dependencies": {},
+  "packages": "packages"
+}
